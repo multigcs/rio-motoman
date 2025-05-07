@@ -9,5 +9,5 @@ experimental - not tested yet
 
 ![rio-motoman](rio-motoman2.png)
 
-![First Test](https://img.youtube.com/vi/BiJppd6_cA4/1.jpg)](https://youtube.com/shorts/BiJppd6_cA4 "First Test")
+![First Test](https://img.youtube.com/vi/BiJppd6_cA4/1.jpg) https://youtube.com/shorts/BiJppd6_cA4
 
